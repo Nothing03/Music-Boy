@@ -1,4 +1,4 @@
-git+https://github.com/adityacheats/downloader@master
+git+https://github.com/subinps/pyrogram@inline-m
 git+https://github.com/subinps/pyrogram@inline-m
 TgCrypto
 py-tgcalls
